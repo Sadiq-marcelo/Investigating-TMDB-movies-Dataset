@@ -1,5 +1,7 @@
 # Investigate TMDB Movies Dataset
-![Ford GoBike](https://github.com/Sadiq-marcelo/investigate-TMDB-movies-dataset/assets/117516151/777234e2-dbd7-4b83-bed3-bbfe24dba429)
+![tmdb movies 2](https://github.com/Sadiq-marcelo/investigate-TMDB-movies-dataset/assets/117516151/6000e6ad-898d-4e69-a27e-dfafb5f8353b)
+
+
 
 
 ## Executive Summary
