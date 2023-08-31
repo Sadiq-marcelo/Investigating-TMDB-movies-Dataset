@@ -4,7 +4,7 @@
 #### What is the project's main purpose?
 This project seeks to analyze, draw insights, and share findings from a dataset "TMDB Movies dataset" using various data analysis methods ranging from Descriptive to Exploratory Data Analysis (EDA). This project is carried out using various techniques like data wrangling (gathering, assessing and cleaning), data visualization, and explanatory data analysis. 
 
-#### What are some of the key findings drawn from your analysis?
+#### What are some of the key findings and conclusions drawn from your analysis?
 As a result of the analysis carried out, here some of the key findings and conclusions considered includes:
 * Highest grossing movies of all time includes Avatar, Star Wars, Jurassic World, Titanic, The Net etc.
 * The most profitable year in the movies industry was 2015.
