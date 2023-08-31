@@ -8,7 +8,7 @@ This project seeks to analyze, draw insights, and share findings from a dataset 
 As a result of the analysis carried out, here some of the key findings and conclusions considered includes:
 * Highest grossing movies of all time includes Avatar, Star Wars, Jurassic World, Titanic, The Net etc.
 * The most profitable year in the movies industry was 2015.
-* The most popular genres are Drama, Comedy, Thriller and Action. For investment purposes, this genres needs be considered.
+* The most popular genres are Drama, Comedy, Thriller and Action. For investment purposes, this are genres that needs be given considered.
 * A well planned budget should be considered when investing in the movies industry.
 
 ## Introduction
@@ -56,9 +56,15 @@ This visual depicts the most popular movie genres of the years. It could be seen
 * 2000's: Drama, Comedy and Thriller
 * 2010's: Drama, Comedy and Thriller
 
+#### What are the limitations associated with the data?
+* Certain values entered in this dataset are made up of unrecognisable characters that aren't english and as a matter of fact cannot be read and understood.
+* The dataset is not up-to-date as it begins and ends from 1960 to 2015.
+* There's no vivid description of each column in the dataset making some columns quite redundant.
+* The dataset contains huge amount of 0's.
+
 ## Conclusion
-Summary of findings includes:
+Summary of findings and recommendations includes:
 1. The highest grossing movies of all time are Avatar, Star Wars, Jurassic World, Titanic, The Net etc.
 2. The most profitable year in the movies industry was 2015.
-3. The most popular genres are Drama, Comedy, Thriller and Action. This are genres that initially need be considered before any other.
+3. The most popular genres are Drama, Comedy, Thriller and Action. For investment purposes, this are genres that needs be given considered.
 4. A well planned budget should be considered when investing in the movies industry.
