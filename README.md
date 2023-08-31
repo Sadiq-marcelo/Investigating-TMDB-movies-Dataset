@@ -26,7 +26,7 @@ The problems tackled in this project explores the data further giving us insight
 * What is the movies industry's most profitable year in the most recent decade?
 * What is the relationship between overall annual Profit and Budget in the movies industry for the most recent decade?
 * What is the relationship between overall annual Profit and Revenue in the movies industry for the most recent decade?
-* What are the most popular genres from year to year?
+* What are the most popular genres throughout the years?
 
 #### Why is the project important?
 The project covers each step of the data analysis process in a chronological order from data gathering, data assessment and cleaning, data exploration, data visualization to sharing findings to perform thorough analysis on the data in question.
@@ -41,13 +41,20 @@ The main methods utilized to carry out analysis involves:
 
 ## Results/Data Analysis
 Here are some of the results generated from the analysis made:
+
+## What are the Top 10 highest grossing movies of all-time?
 ![top 10 movies](https://github.com/Sadiq-marcelo/investigate-TMDB-movies-dataset/assets/117516151/084347ad-0309-4ade-b606-e582f750d35b)
+
 Utilizing a bar chart, we are able to visualize the 10 highest grossing movies of all-time according to the data we're working on.
 
+## What is the relationship between overall annual Profit and Budget in the movies industry for the most recent decade?
 ![budget vs profit](https://github.com/Sadiq-marcelo/investigate-TMDB-movies-dataset/assets/117516151/8b982e0a-0107-4670-a4ec-c3073b2c2870)
+
 This visual shows the relationship between total movies budget and the profit made on the year basis. It turns out the movies industry for the past decade made more than twice the amount they budgeted for, and this trend continued consistently on an annual basis.
 
+## * What are the most popular genres throughout the years?
 ![most popular genres](https://github.com/Sadiq-marcelo/investigate-TMDB-movies-dataset/assets/117516151/aa7304fa-fd70-4782-808f-4bad1d4fb360)
+
 This visual depicts the most popular movie genres of the years. It could be seen that the three most popular genres by each decade include; 
 * 1960's: Drama, Adventure and Action
 * 1970's: Drama, Thriller and Action
