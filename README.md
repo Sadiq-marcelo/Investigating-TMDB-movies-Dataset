@@ -1,4 +1,6 @@
 # Investigate TMDB Movies Dataset
+![Ford GoBike](https://github.com/Sadiq-marcelo/investigate-TMDB-movies-dataset/assets/117516151/777234e2-dbd7-4b83-bed3-bbfe24dba429)
+
 
 ## Executive Summary
 #### What is the project's main purpose?
